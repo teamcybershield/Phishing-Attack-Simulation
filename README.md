@@ -12,3 +12,5 @@
 # Implements error handling to capture and report any exceptions that may occur during the email sending process.
 # Executes the send_email() function with predefined parameters to deliver a security-related password reset notification concerning suspicious activity on an Instagram account.
 
+**Password Reset Page**
+The page is designed using HTML and CSS. The user can input their credentials in it and submit them using the submit button provided. The page is mainly designed using the form tag. It consists of three credentials to be inputted: user id, old password and new password. It consist of a Submit button too which will be linked to the backend server to so that we can store user entered data in the database. All the three credentials are mandatory to be filled. 
