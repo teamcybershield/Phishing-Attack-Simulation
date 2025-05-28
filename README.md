@@ -14,3 +14,6 @@
 
 **Password Reset Page**
 The page is designed using HTML and CSS. The user can input their credentials in it and submit them using the submit button provided. The page is mainly designed using the form tag. It consists of three credentials to be inputted: user id, old password and new password. It consist of a Submit button too which will be linked to the backend server to so that we can store user entered data in the database. All the three credentials are mandatory to be filled. 
+
+**Backend Server**
+The backend server is developed using Flask. This serves to send the user entered data on the password reset page to the MySQL database.
